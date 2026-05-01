@@ -29,21 +29,39 @@ Project Workflow
 Collected dataset containing Facebook comments/posts.
 
 
-3. Data Preprocessing
+2. Data Preprocessing
 Lowercasing text
 Removing stopwords and punctuation
 Tokenization
 Lemmatization/Stemming
 
 
-5. Feature Engineering
+3. Feature Engineering
 Converted text into numerical form using:
 TF-IDF Vectorizer
 Bag of Words
 
 
-7. Model Building
+4.Model Building
 Implemented multiple Machine Learning models:
 Logistic Regression
 Naive Bayes
 Random Forest
+
+
+5. Model Building
+Implemented multiple Machine Learning models:
+Logistic Regression
+Naive Bayes
+Random Forest
+
+Results
+Achieved high accuracy in sentiment classification
+Logistic Regression / Naive Bayes performed efficiently for text data
+Model successfully categorized user sentiments into meaningful classes
+
+Sample Output
+Text	Predicted Sentiment
+"This product is amazing!"-Positive
+"Worst experience ever"-Negative
+"It's okay, not bad"-Neutral
