@@ -49,7 +49,7 @@ Naive Bayes
 Random Forest
 
 
-5. Model Building
+5.Model Building
 Implemented multiple Machine Learning models:
 Logistic Regression
 Naive Bayes
